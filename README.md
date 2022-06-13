@@ -2,7 +2,7 @@
 
 Pustaka Booking Web Programming III Semester 4
 	•	Nama		: Suyatno Hadi Pranoto
-	•	NIM			: 19200076
+	•	NIM		: 19200076
 	•	Kelas		: 19.4E.07
 	•	Prodi		: Sistem Informasi
 
@@ -10,8 +10,8 @@ Pustaka Booking Web Programming III Semester 4
 
 • Administrator
 	• Email			: suyatno.hadi1985@gmail.com
-	• Password	: 123
+	• Password		: 123
 	
 • Member
 	• Email			: 19200076@bsi.ac.id
-	• Password	: 123
+	• Password		: 123
